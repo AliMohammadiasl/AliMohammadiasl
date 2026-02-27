@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello there, my name is Ali 👋
+
+I am a Master's student at University of California, San Diego, studying Computer Science with specialization in AI. 
+
+Feel free to connect with me on LinkedIn :)
+
+
+<p>
+  <a href="https://www.linkedin.com/in/alimoasl" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
 
 <!--
 **AliMohammadiasl/AliMohammadiasl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
